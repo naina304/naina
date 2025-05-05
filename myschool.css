@@ -1,0 +1,31 @@
+header{
+    background-image: url('../image3/govt7.jpg');
+     background-size: cover;
+     height: 100%;
+     
+    
+}
+#head,.img{
+    display:flex;
+    color:white;
+    justify-content: space-between;
+    background-color: rgba(78, 35, 45, 0.5);
+    text-transform: uppercase;
+}
+.title{
+    text-transform: uppercase;
+    font-size: 50px;
+    font-weight: 200;
+    padding-left: 150;
+    padding-top: 400;
+    color: blueviolet;
+}
+.hr{width:40%;
+    margin:0;
+    padding:0;
+    margin-top:30px;
+}
+.divider{
+    border: 1px solid lightgray;
+    height:100%;
+}
